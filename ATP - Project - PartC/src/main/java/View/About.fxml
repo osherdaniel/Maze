@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="/View/SecondStyle.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane prefHeight="306.0" prefWidth="394.0">
+         <children>
+            <Label style="-fx-text-fill: #db7979;" layoutX="160.0" layoutY="14.0" prefHeight="42.0" prefWidth="140.0" text="About" >
+               <font>
+                  <Font name="Berlin Sans FB Demi Bold" size="24.0"/>
+               </font>
+            </Label>
+
+            <Label layoutX="24.0" layoutY="60.0" text="This game created by Shahar Tal and Osher Daniel. &#10;&#10;We built the maze using the DFS algorithm.&#10;There are 3 options for solving the maze: DFS, BFS, BestFS.&#10;&#10;Have fun :)" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

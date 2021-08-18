@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="424.0" prefWidth="600.0" stylesheets="/View/SecondStyle.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <TabPane  prefHeight="250.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE">
+              <tabs>
+                <Tab text="Instructions">
+                    <content>
+                        <Label text="Hello &#10;&#10; In this game you will need to find a path from start position &#10;(the location of the Professor) to the goal position (The royal &#10; mint). &#10; &#10;For solution please click on the Solve Maze button.&#10; &#10;For help, click the Hint button - it will show the next step in &#10;the solution. &#10;&#10; Have FUN!"></Label>
+                    </content>
+                </Tab>
+                <Tab text="How to Play">
+                    <content>
+                        <Label text="In order to Play: &#10;&#10; to move Right: 6 &#10;to move Left: 4 &#10;to move Up: 8 &#10;to move Down: 2 &#10;to move Up and Right: 9 &#10;to move Up and Left: 7 &#10;to move Down and Right:3 &#10;to move Down and Left: 1" />
+                    </content>
+                </Tab>
+              </tabs>
+            </TabPane>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

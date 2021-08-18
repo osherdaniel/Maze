@@ -1,0 +1,536 @@
+2020.06.18 19:26:44.114 INFO  Model.MyModel - Servers start
+2020.06.18 19:26:47.328 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:26:53.496 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:53.496 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:26:54.860 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:54.860 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:26:55.672 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:55.672 INFO  Model.MyModel - The characterPositionRow is: 6
+2020.06.18 19:26:56.565 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:56.565 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:26:57.229 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:26:57.230 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:26:57.609 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:57.609 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:26:57.841 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:26:57.841 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:26:58.823 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:26:58.824 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:26:59.585 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:26:59.585 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:00.432 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:27:00.432 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:01.914 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:27:01.915 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:03.214 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:27:03.214 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:04.219 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:27:04.219 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:06.015 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:06.016 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:06.489 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:06.489 INFO  Model.MyModel - The characterPositionRow is: 6
+2020.06.18 19:27:06.717 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:06.717 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:06.918 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:06.919 INFO  Model.MyModel - The characterPositionRow is: 8
+2020.06.18 19:27:07.230 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:07.230 INFO  Model.MyModel - The characterPositionRow is: 9
+2020.06.18 19:27:07.893 INFO  Model.MyModel - The characterPositionColumn is: 5
+2020.06.18 19:27:07.893 INFO  Model.MyModel - The characterPositionRow is: 9
+2020.06.18 19:27:08.172 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:08.173 INFO  Model.MyModel - The characterPositionRow is: 9
+2020.06.18 19:27:08.485 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:08.485 INFO  Model.MyModel - The characterPositionRow is: 8
+2020.06.18 19:27:08.734 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:08.734 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:08.936 INFO  Model.MyModel - The characterPositionColumn is: 3
+2020.06.18 19:27:08.936 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:09.218 INFO  Model.MyModel - The characterPositionColumn is: 2
+2020.06.18 19:27:09.219 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:09.440 INFO  Model.MyModel - The characterPositionColumn is: 1
+2020.06.18 19:27:09.440 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:09.799 INFO  Model.MyModel - The characterPositionColumn is: 0
+2020.06.18 19:27:09.799 INFO  Model.MyModel - The characterPositionRow is: 7
+2020.06.18 19:27:10.081 INFO  Model.MyModel - The characterPositionColumn is: 0
+2020.06.18 19:27:10.081 INFO  Model.MyModel - The characterPositionRow is: 6
+2020.06.18 19:27:10.362 INFO  Model.MyModel - The characterPositionColumn is: 0
+2020.06.18 19:27:10.362 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:10.621 INFO  Model.MyModel - The characterPositionColumn is: 1
+2020.06.18 19:27:10.621 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:10.943 INFO  Model.MyModel - The characterPositionColumn is: 2
+2020.06.18 19:27:10.944 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:11.273 INFO  Model.MyModel - The characterPositionColumn is: 3
+2020.06.18 19:27:11.274 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:11.575 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:11.575 INFO  Model.MyModel - The characterPositionRow is: 5
+2020.06.18 19:27:12.027 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:12.027 INFO  Model.MyModel - The characterPositionRow is: 4
+2020.06.18 19:27:12.268 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:12.268 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:12.490 INFO  Model.MyModel - The characterPositionColumn is: 3
+2020.06.18 19:27:12.490 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:13.139 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:13.139 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:13.692 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:13.692 INFO  Model.MyModel - The characterPositionRow is: 4
+2020.06.18 19:27:14.133 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:14.133 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:14.395 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:14.396 INFO  Model.MyModel - The characterPositionRow is: 4
+2020.06.18 19:27:14.546 INFO  Model.MyModel - The characterPositionColumn is: 3
+2020.06.18 19:27:14.546 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:14.948 INFO  Model.MyModel - The characterPositionColumn is: 2
+2020.06.18 19:27:14.949 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:15.238 INFO  Model.MyModel - The characterPositionColumn is: 2
+2020.06.18 19:27:15.238 INFO  Model.MyModel - The characterPositionRow is: 2
+2020.06.18 19:27:15.668 INFO  Model.MyModel - The characterPositionColumn is: 2
+2020.06.18 19:27:15.668 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:15.950 INFO  Model.MyModel - The characterPositionColumn is: 3
+2020.06.18 19:27:15.951 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:16.231 INFO  Model.MyModel - The characterPositionColumn is: 4
+2020.06.18 19:27:16.231 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:16.443 INFO  Model.MyModel - The characterPositionColumn is: 5
+2020.06.18 19:27:16.443 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:16.704 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:16.704 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:17.006 INFO  Model.MyModel - The characterPositionColumn is: 5
+2020.06.18 19:27:17.006 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:17.234 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:17.235 INFO  Model.MyModel - The characterPositionRow is: 1
+2020.06.18 19:27:17.578 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:17.578 INFO  Model.MyModel - The characterPositionRow is: 2
+2020.06.18 19:27:17.807 INFO  Model.MyModel - The characterPositionColumn is: 6
+2020.06.18 19:27:17.808 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:18.089 INFO  Model.MyModel - The characterPositionColumn is: 7
+2020.06.18 19:27:18.089 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:18.403 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:27:18.403 INFO  Model.MyModel - The characterPositionRow is: 3
+2020.06.18 19:27:18.702 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:27:18.702 INFO  Model.MyModel - The characterPositionColumn is: 8
+2020.06.18 19:27:18.702 INFO  Model.MyModel - The characterPositionRow is: 2
+2020.06.18 19:27:24.889 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:27:26.646 INFO  Model.MyModel - Servers end
+2020.06.18 19:27:59.357 INFO  Model.MyModel - Servers start
+2020.06.18 19:28:01.119 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:28:14.229 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:28:17.399 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:28:25.305 INFO  Model.MyModel - The player ask for Hint
+2020.06.18 19:28:25.306 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:28:36.095 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:28:42.879 INFO  Model.MyModel - Servers end
+2020.06.18 19:29:23.732 INFO  Model.MyModel - Servers start
+2020.06.18 19:29:25.490 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:29:33.015 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:29:35.886 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:29:42.325 INFO  Model.MyModel - The player ask for Hint
+2020.06.18 19:29:45.029 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:29:48.877 INFO  Model.MyModel - Servers end
+2020.06.18 19:30:48.399 INFO  Model.MyModel - Servers start
+2020.06.18 19:30:55.156 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:31:04.713 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:31:10.775 INFO  Model.MyModel - Servers end
+2020.06.18 19:31:10.785 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:31:58.414 INFO  Model.MyModel - The servers start
+2020.06.18 19:32:00.742 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:32:04.838 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:32:04.893 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:32:04.943 INFO  Model.MyModel - Solve the maze
+2020.06.18 19:32:07.512 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:32:14.673 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:32:17.823 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:32:17.830 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:32:51.839 INFO  Model.MyModel - The servers start
+2020.06.18 19:32:56.300 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:33:00.099 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:33:02.547 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:33:02.558 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:33:17.936 INFO  Model.MyModel - The servers start
+2020.06.18 19:33:32.585 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:33:35.461 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:33:41.448 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:34:41.025 INFO  Model.MyModel - The servers start
+2020.06.18 19:34:57.824 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:35:02.149 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:35:16.984 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:36:05.615 INFO  Model.MyModel - The servers start
+2020.06.18 19:36:10.162 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:36:17.004 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:37:00.898 INFO  Model.MyModel - The servers start
+2020.06.18 19:37:03.047 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:37:09.892 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:37:14.836 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:37:22.437 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:37:22.447 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:37:39.143 INFO  Model.MyModel - The servers start
+2020.06.18 19:37:49.341 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:37:50.441 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:37:53.425 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:37:56.790 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 19:37:58.470 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:37:58.480 INFO  Model.MyModel - Generate Maze
+2020.06.18 19:41:35.565 INFO  Model.MyModel - The servers start
+2020.06.18 19:41:37.492 INFO  Model.MyModel - Generate Maze By Client: Model.MyModel$1@64707cf0
+2020.06.18 19:43:08.197 INFO  Model.MyModel - The servers start
+2020.06.18 19:43:12.074 INFO  Model.MyModel - Generate Maze By Client: Client.Client@6b13fd0d
+2020.06.18 19:43:21.966 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:44:04.679 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:44:06.640 INFO  Model.MyModel - Generate Maze By Client: Client.Client@1d9c8c2e
+2020.06.18 19:44:10.057 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:45:27.780 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:45:29.603 INFO  Model.MyModel - Generate Maze By Client: Client.Client@6b13fd0d
+2020.06.18 19:45:29.609 INFO  Model.MyModel - The number of rows in the maze : 10
+2020.06.18 19:45:29.609 INFO  Model.MyModel - The number of columns in the maze : 10
+2020.06.18 19:45:33.386 INFO  Model.MyModel - Generate Maze By Client: Client.Client@26b1ab84
+2020.06.18 19:45:33.388 INFO  Model.MyModel - The number of rows in the maze : 10
+2020.06.18 19:45:33.388 INFO  Model.MyModel - The number of columns in the maze : 2
+2020.06.18 19:45:38.831 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:47:29.280 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:47:38.600 INFO  Model.MyModel - Generate Maze By Client: Client.Client@55a3f85a
+2020.06.18 19:47:38.606 INFO  Model.MyModel - Rows: 10 ,Columns10
+2020.06.18 19:47:38.606 INFO  Model.MyModel - StartPositin :{9,4} ,GoalPostion: {9,2}
+2020.06.18 19:48:09.604 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:48:11.398 INFO  Model.MyModel - Generate Maze By Client: Client.Client@1d9c8c2e
+2020.06.18 19:48:11.404 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 19:48:11.404 INFO  Model.MyModel - StartPositin :{5,8} ,GoalPostion: {8,0}
+
+2020.06.18 19:55:07.642 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:55:09.385 INFO  Model.MyModel - Generate Maze By: Client.Client@552d7203
+2020.06.18 19:55:09.391 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 19:55:09.391 INFO  Model.MyModel - StartPositin :{6,7} ,GoalPostion: {8,6}
+
+2020.06.18 19:55:14.043 INFO  Model.MyModel - Solving the maze By: Client.Client@7d8b6df1
+2020.06.18 19:55:14.044 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 19:56:17.463 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:56:19.214 INFO  Model.MyModel - Generate Maze By: Client.Client@686239ec
+2020.06.18 19:56:19.221 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 19:56:19.222 INFO  Model.MyModel - StartPositin :{7,8} ,GoalPostion: {2,6}
+
+2020.06.18 19:56:24.805 INFO  Model.MyModel - Solving the maze By: Client.Client@33db53df
+2020.06.18 19:56:24.805 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 19:56:24.806 INFO  Model.MyModel - Solution length: 20
+2020.06.18 19:58:50.504 INFO  Model.MyModel - The servers stopped
+2020.06.18 19:59:39.060 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:59:40.256 INFO  Model.MyModel - The servers started running
+
+2020.06.18 19:59:42.456 INFO  Model.MyModel - Generate Maze By: Client.Client@77b2d3a5
+2020.06.18 19:59:42.470 INFO  Model.MyModel - Rows: 3 ,Columns:3
+2020.06.18 19:59:42.470 INFO  Model.MyModel - StartPositin :{1,0} ,GoalPostion: {0,2}
+
+2020.06.18 19:59:44.998 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:01:00.824 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:01:00.837 INFO  Model.MyModel - Generate Maze By: Client.Client@21cb4e29
+2020.06.18 20:01:00.838 INFO  Model.MyModel - Rows: 3 ,Columns:3
+2020.06.18 20:01:00.839 INFO  Model.MyModel - StartPositin :{0,2} ,GoalPostion: {2,1}
+
+2020.06.18 20:01:35.182 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:01:48.391 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:01:51.073 INFO  Model.MyModel - Generate Maze By: Client.Client@6b13fd0d
+2020.06.18 20:01:51.080 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:01:51.080 INFO  Model.MyModel - StartPositin :{6,6} ,GoalPostion: {0,1}
+
+2020.06.18 20:01:58.225 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:02:01.924 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:02:01.933 INFO  Model.MyModel - Generate Maze By: Client.Client@3f85fabd
+2020.06.18 20:02:01.934 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:02:01.935 INFO  Model.MyModel - StartPositin :{2,2} ,GoalPostion: {3,8}
+
+2020.06.18 20:07:33.094 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:07:35.270 INFO  Model.MyModel - Generate Maze By: Client.Client@3653fe8d
+2020.06.18 20:07:35.279 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:07:35.279 INFO  Model.MyModel - StartPositin :{3,3} ,GoalPostion: {1,8}
+
+2020.06.18 20:07:39.626 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:07:50.114 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:08:45.413 INFO  Model.MyModel - Generate Maze By: Client.Client@19d1db3d
+2020.06.18 20:08:47.421 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:08:49.700 INFO  Model.MyModel - Generate Maze By: Client.Client@386d251
+2020.06.18 20:08:54.599 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:08:54.600 INFO  Model.MyModel - StartPositin :{1,2} ,GoalPostion: {1,4}
+
+2020.06.18 20:08:59.885 INFO  Model.MyModel - Generate Maze By: Client.Client@2e72ccf7
+2020.06.18 20:09:02.811 INFO  Model.MyModel - Rows: 4 ,Columns:4
+2020.06.18 20:09:02.811 INFO  Model.MyModel - StartPositin :{2,2} ,GoalPostion: {2,0}
+
+2020.06.18 20:09:06.135 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:09:15.789 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:10:35.653 INFO  Model.MyModel - Generate Maze By: Client.Client@51cb24ba
+2020.06.18 20:13:13.801 INFO  Model.MyModel - Generate Maze By: Client.Client@6289c15b
+2020.06.18 20:17:21.903 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:17:23.585 INFO  Model.MyModel - Generate Maze By: Client.Client@79c0ea66
+2020.06.18 20:17:23.591 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:17:23.591 INFO  Model.MyModel - StartPositin :{7,2} ,GoalPostion: {3,4}
+
+2020.06.18 20:17:30.386 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:17:33.986 INFO  Model.MyModel - Generate Maze By: Client.Client@5073377d
+2020.06.18 20:17:33.988 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:17:33.988 INFO  Model.MyModel - StartPositin :{6,6} ,GoalPostion: {1,0}
+
+2020.06.18 20:17:37.617 INFO  Model.MyModel - Generate Maze By: Client.Client@3a391411
+2020.06.18 20:17:37.618 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:17:37.618 INFO  Model.MyModel - StartPositin :{6,4} ,GoalPostion: {2,2}
+
+2020.06.18 20:17:40.788 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:17:42.533 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:17:42.541 INFO  Model.MyModel - Generate Maze By: Client.Client@575a8169
+2020.06.18 20:17:42.542 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:17:42.543 INFO  Model.MyModel - StartPositin :{3,4} ,GoalPostion: {9,6}
+
+2020.06.18 20:18:00.224 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:18:02.023 INFO  Model.MyModel - Generate Maze By: Client.Client@19179585
+2020.06.18 20:18:02.029 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:18:02.029 INFO  Model.MyModel - StartPositin :{7,4} ,GoalPostion: {8,6}
+
+2020.06.18 20:18:07.751 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:18:09.565 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:18:29.640 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:18:31.349 INFO  Model.MyModel - Generate Maze By: Client.Client@19179585
+2020.06.18 20:18:31.355 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:18:31.355 INFO  Model.MyModel - StartPositin :{0,9} ,GoalPostion: {6,8}
+
+2020.06.18 20:18:34.216 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:18:35.788 INFO  Model.MyModel - Generate Maze By: Client.Client@53dec8fb
+2020.06.18 20:18:35.790 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:18:35.791 INFO  Model.MyModel - StartPositin :{7,1} ,GoalPostion: {6,9}
+
+2020.06.18 20:18:46.930 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:18:49.435 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:27:02.493 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:27:06.173 INFO  Model.MyModel - Generate Maze By: Client.Client@80fce02
+2020.06.18 20:27:06.180 INFO  Model.MyModel - Rows: 4 ,Columns:4
+2020.06.18 20:27:06.180 INFO  Model.MyModel - StartPositin :{3,1} ,GoalPostion: {1,1}
+
+2020.06.18 20:27:09.638 INFO  Model.MyModel - The player ask for Hint
+2020.06.18 20:27:15.965 INFO  Model.MyModel - Generate Maze By: Client.Client@4e344daf
+2020.06.18 20:27:15.966 INFO  Model.MyModel - Rows: 4 ,Columns:4
+2020.06.18 20:27:15.966 INFO  Model.MyModel - StartPositin :{2,1} ,GoalPostion: {0,1}
+
+2020.06.18 20:27:19.757 INFO  Model.MyModel - Solving the maze By: Client.Client@501a7c76
+2020.06.18 20:27:19.758 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 20:27:19.758 INFO  Model.MyModel - Solution length: 4
+
+2020.06.18 20:27:30.246 INFO  Model.MyModel - Generate Maze By: Client.Client@3924e524
+2020.06.18 20:27:30.248 INFO  Model.MyModel - Rows: 4 ,Columns:4
+2020.06.18 20:27:30.248 INFO  Model.MyModel - StartPositin :{3,0} ,GoalPostion: {1,0}
+
+2020.06.18 20:27:36.583 INFO  Model.MyModel - The player saved the current maze
+2020.06.18 20:27:41.988 INFO  Model.MyModel - The player load a maze
+2020.06.18 20:27:51.049 INFO  Model.MyModel - The player changed the Game Properties
+2020.06.18 20:28:00.747 INFO  Model.MyModel - Solving the maze By: Client.Client@5337e2e3
+2020.06.18 20:28:00.747 INFO  Model.MyModel - SolvingMethod: DepthFirstSearch
+2020.06.18 20:28:00.747 INFO  Model.MyModel - Solution length: 5
+
+2020.06.18 20:30:00.620 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:30:02.464 INFO  Model.MyModel - Generate Maze By: Client.Client@79c0ea66
+2020.06.18 20:30:02.470 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:02.470 INFO  Model.MyModel - StartPositin :{8,2} ,GoalPostion: {2,8}
+
+2020.06.18 20:30:08.342 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.18 20:30:08.342 INFO  Model.MyModel - TypeMaze: SimpleMazeGenerator ,SolvingMethod: DepthFirstSearch ,numOfThread: 3
+
+2020.06.18 20:30:19.130 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:30:21.940 INFO  Model.MyModel - Generate Maze By: Client.Client@3faa242c
+2020.06.18 20:30:21.942 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:21.942 INFO  Model.MyModel - StartPositin :{2,8} ,GoalPostion: {1,5}
+
+2020.06.18 20:30:37.182 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.18 20:30:37.183 INFO  Model.MyModel - TypeMaze: MyMazeGenerator ,SolvingMethod: DepthFirstSearch ,numOfThread: 2
+
+2020.06.18 20:30:39.843 INFO  Model.MyModel - Generate Maze By: Client.Client@7ce94a7d
+2020.06.18 20:30:39.844 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:39.844 INFO  Model.MyModel - StartPositin :{3,9} ,GoalPostion: {7,3}
+
+2020.06.18 20:30:43.700 INFO  Model.MyModel - Generate Maze By: Client.Client@2a089e6f
+2020.06.18 20:30:43.701 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:43.702 INFO  Model.MyModel - StartPositin :{1,0} ,GoalPostion: {4,8}
+
+2020.06.18 20:30:45.981 INFO  Model.MyModel - Generate Maze By: Client.Client@2ee1b1de
+2020.06.18 20:30:45.983 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:45.983 INFO  Model.MyModel - StartPositin :{6,9} ,GoalPostion: {6,6}
+
+2020.06.18 20:30:53.159 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.18 20:30:53.159 INFO  Model.MyModel - TypeMaze: SimpleMazeGenerator ,SolvingMethod: BestFirstSearch ,numOfThread: 2
+
+2020.06.18 20:30:55.786 INFO  Model.MyModel - Generate Maze By: Client.Client@22c9ccd7
+2020.06.18 20:30:55.788 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:55.788 INFO  Model.MyModel - StartPositin :{9,9} ,GoalPostion: {0,1}
+
+2020.06.18 20:30:57.943 INFO  Model.MyModel - Generate Maze By: Client.Client@164f7266
+2020.06.18 20:30:57.944 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:30:57.944 INFO  Model.MyModel - StartPositin :{2,7} ,GoalPostion: {4,2}
+
+2020.06.18 20:34:57.927 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:37:27.049 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:37:28.773 INFO  Model.MyModel - Generate Maze By: Client.Client@19179585
+2020.06.18 20:37:28.780 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:37:28.780 INFO  Model.MyModel - StartPositin :{3,1} ,GoalPostion: {3,8}
+
+2020.06.18 20:37:32.810 INFO  Model.MyModel - Generate Maze By: Client.Client@3f85fabd
+2020.06.18 20:37:32.811 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:37:32.811 INFO  Model.MyModel - StartPositin :{6,9} ,GoalPostion: {1,3}
+
+2020.06.18 20:37:34.813 INFO  Model.MyModel - Generate Maze By: Client.Client@43c40fe5
+2020.06.18 20:37:34.814 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:37:34.814 INFO  Model.MyModel - StartPositin :{0,7} ,GoalPostion: {9,2}
+
+2020.06.18 20:37:40.117 INFO  Model.MyModel - Solving the maze By: Client.Client@c014ede
+2020.06.18 20:37:40.117 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 20:37:40.118 INFO  Model.MyModel - Solution length: 0
+
+2020.06.18 20:37:43.694 INFO  Model.MyModel - Generate Maze By: Client.Client@5e4056e6
+2020.06.18 20:37:43.695 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:37:43.695 INFO  Model.MyModel - StartPositin :{6,9} ,GoalPostion: {0,5}
+
+2020.06.18 20:37:48.888 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.18 20:37:48.889 INFO  Model.MyModel - TypeMaze: MyMazeGenerator ,SolvingMethod: BestFirstSearch ,numOfThread: 2
+
+2020.06.18 20:37:50.620 INFO  Model.MyModel - Solving the maze By: Client.Client@774b6cf
+2020.06.18 20:37:50.620 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 20:37:50.620 INFO  Model.MyModel - Solution length: 7
+
+2020.06.18 20:37:52.357 INFO  Model.MyModel - Generate Maze By: Client.Client@42e384be
+2020.06.18 20:37:52.358 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:37:52.359 INFO  Model.MyModel - StartPositin :{5,3} ,GoalPostion: {1,2}
+
+2020.06.18 20:37:58.945 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:43:38.776 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:43:41.800 INFO  Model.MyModel - Generate Maze By: Client.Client@50fce55a
+2020.06.18 20:43:41.806 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 20:43:41.806 INFO  Model.MyModel - StartPositin :{0,5} ,GoalPostion: {6,5}
+
+2020.06.18 20:43:59.455 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.18 20:44:04.008 INFO  Model.MyModel - The servers stopped
+2020.06.18 20:54:27.724 INFO  Model.MyModel - The servers started running
+
+2020.06.18 20:54:34.376 ERROR Model.MyModel - The user enter a number that smaller than one
+2020.06.18 20:54:38.508 ERROR Model.MyModel - The user enter a number that smaller than one
+2020.06.18 20:54:42.524 INFO  Model.MyModel - Generate Maze By: Client.Client@42321691
+2020.06.18 20:54:42.531 INFO  Model.MyModel - Rows: 4 ,Columns:10
+2020.06.18 20:54:42.531 INFO  Model.MyModel - StartPositin :{2,1} ,GoalPostion: {0,5}
+
+2020.06.18 20:54:45.829 INFO  Model.MyModel - The servers stopped
+2020.06.18 22:07:45.427 INFO  Model.MyModel - The servers started running
+
+2020.06.18 22:07:54.005 INFO  Model.MyModel - Generate Maze By: Client.Client@653647d6
+2020.06.18 22:07:54.018 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.18 22:07:54.019 INFO  Model.MyModel - StartPositin :{6,7} ,GoalPostion: {2,3}
+
+2020.06.18 22:08:25.604 INFO  Model.MyModel - Solving the maze By: Client.Client@76dfc43a
+2020.06.18 22:08:25.604 INFO  Model.MyModel - SolvingMethod: BestFirstSearch
+2020.06.18 22:08:25.605 INFO  Model.MyModel - Solution length: 18
+
+2020.06.18 22:08:39.456 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.18 22:08:39.457 INFO  Model.MyModel - TypeMaze: SimpleMazeGenerator ,SolvingMethod: BreadthFirstSearch ,numOfThread: 2
+
+2020.06.18 22:08:58.338 INFO  Model.MyModel - The player saved the current maze
+2020.06.18 22:09:13.033 ERROR Model.MyModel - The user enter a number that smaller than one
+2020.06.19 09:55:58.040 INFO  Model.MyModel - The servers stopped
+2020.06.19 10:45:53.428 INFO  Model.MyModel - The servers started running
+
+2020.06.19 10:45:57.649 INFO  Model.MyModel - Generate Maze By: Client.Client@1c152748
+2020.06.19 10:45:57.662 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 10:45:57.663 INFO  Model.MyModel - StartPositin :{3,9} ,GoalPostion: {7,1}
+
+2020.06.19 10:46:04.281 INFO  Model.MyModel - The player changed the Game Properties:
+2020.06.19 10:46:04.281 INFO  Model.MyModel - TypeMaze: MyMazeGenerator ,SolvingMethod: BestFirstSearch ,numOfThread: 2
+
+2020.06.19 10:46:06.014 INFO  Model.MyModel - Generate Maze By: Client.Client@323d5c6e
+2020.06.19 10:46:06.019 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 10:46:06.019 INFO  Model.MyModel - StartPositin :{8,0} ,GoalPostion: {1,0}
+
+2020.06.19 10:46:12.476 INFO  Model.MyModel - Generate Maze By: Client.Client@47716606
+2020.06.19 10:46:12.479 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 10:46:12.479 INFO  Model.MyModel - StartPositin :{9,4} ,GoalPostion: {8,2}
+
+2020.06.19 10:46:15.305 INFO  Model.MyModel - Generate Maze By: Client.Client@3fae5bfc
+2020.06.19 10:46:15.307 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 10:46:15.308 INFO  Model.MyModel - StartPositin :{7,6} ,GoalPostion: {3,0}
+
+2020.06.19 10:46:28.351 INFO  Model.MyModel - Generate Maze By: Client.Client@15563ac2
+2020.06.19 10:46:28.355 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 10:46:28.355 INFO  Model.MyModel - StartPositin :{8,9} ,GoalPostion: {6,5}
+
+2020.06.19 11:00:28.518 INFO  Model.MyModel - The servers stopped
+2020.06.19 18:14:41.054 INFO  Model.MyModel - The servers started running
+
+2020.06.19 18:14:46.233 INFO  Model.MyModel - The servers started running
+
+2020.06.19 18:15:01.295 INFO  Model.MyModel - Generate Maze By: Client.Client@19179585
+2020.06.19 18:15:01.302 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 18:15:01.302 INFO  Model.MyModel - StartPositin :{1,8} ,GoalPostion: {4,8}
+
+2020.06.19 18:15:19.040 INFO  Model.MyModel - The servers stopped
+2020.06.19 18:17:00.648 INFO  Model.MyModel - The servers started running
+
+2020.06.19 18:17:03.245 INFO  Model.MyModel - Generate Maze By: Client.Client@4e06ec54
+2020.06.19 18:17:03.251 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.19 18:17:03.251 INFO  Model.MyModel - StartPositin :{4,7} ,GoalPostion: {6,2}
+
+2020.06.21 09:50:17.019 INFO  Model.MyModel - The servers stopped
+2020.06.22 10:30:04.810 INFO  Model.MyModel - The servers started running
+
+2020.06.22 10:30:08.908 INFO  Model.MyModel - Generate Maze By: Client.Client@4481dafb
+2020.06.22 10:30:08.926 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.22 10:30:08.926 INFO  Model.MyModel - StartPositin :{0,4} ,GoalPostion: {4,0}
+
+2020.06.22 10:30:12.430 INFO  Model.MyModel - The servers stopped
+2020.06.22 10:30:51.373 INFO  Model.MyModel - The servers started running
+
+2020.06.22 10:30:56.801 INFO  Model.MyModel - The player load a maze
+2020.06.22 10:31:01.573 INFO  Model.MyModel - The servers stopped
+2020.06.24 18:02:14.772 INFO  Model.MyModel - The servers started running
+
+2020.06.24 18:02:17.177 INFO  Model.MyModel - Generate Maze By: Client.Client@19179585
+2020.06.24 18:02:17.183 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.24 18:02:17.184 INFO  Model.MyModel - StartPositin :{3,9} ,GoalPostion: {8,3}
+
+2020.06.24 18:02:19.712 INFO  Model.MyModel - The servers stopped
+2020.06.24 18:06:36.210 INFO  Model.MyModel - The servers started running
+
+2020.06.24 18:06:48.037 INFO  Model.MyModel - The servers stopped
+2020.06.24 18:11:54.641 INFO  Model.MyModel - The servers started running
+
+2020.06.24 18:11:58.241 INFO  Model.MyModel - Generate Maze By: Client.Client@79c0ea66
+2020.06.24 18:11:58.248 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.24 18:11:58.248 INFO  Model.MyModel - StartPositin :{5,7} ,GoalPostion: {6,5}
+
+2020.06.24 18:12:05.351 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.24 18:12:07.808 INFO  Model.MyModel - The servers stopped
+2020.06.25 10:01:32.005 INFO  Model.MyModel - The servers started running
+
+2020.06.25 10:01:40.697 INFO  Model.MyModel - The servers stopped
+2020.06.25 10:02:48.070 INFO  Model.MyModel - The servers started running
+
+2020.06.25 10:02:52.692 INFO  Model.MyModel - Generate Maze By: Client.Client@79c0ea66
+2020.06.25 10:02:52.708 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.25 10:02:52.708 INFO  Model.MyModel - StartPositin :{8,0} ,GoalPostion: {3,8}
+
+2020.06.25 10:03:06.807 INFO  Model.MyModel - The player ask for Hint
+2020.06.25 10:03:08.030 INFO  Model.MyModel - Solving the maze By: Client.Client@405ae882
+2020.06.25 10:03:08.031 INFO  Model.MyModel - SolvingMethod: BreadthFirstSearch
+2020.06.25 10:03:08.031 INFO  Model.MyModel - Solution length: 5
+
+2020.06.25 10:03:15.553 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.25 10:03:17.400 INFO  Model.MyModel - Generate Maze By: Client.Client@27018403
+2020.06.25 10:03:17.403 INFO  Model.MyModel - Rows: 10 ,Columns:10
+2020.06.25 10:03:17.404 INFO  Model.MyModel - StartPositin :{1,8} ,GoalPostion: {1,4}
+
+2020.06.25 10:03:21.444 INFO  Model.MyModel - The player has reached the GoalPosition
+2020.06.25 10:03:23.251 INFO  Model.MyModel - The servers stopped

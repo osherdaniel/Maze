@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import View.*?>
+<?import java.lang.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane onKeyReleased="#KeyReleasedEvent" onMouseClicked="#mouseClicked" onScroll="#onScrollEvent" prefHeight="480.0" prefWidth="600.0" stylesheets="/View/MainStyle.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
+    <left>
+        <VBox prefHeight="200.0" prefWidth="250.0" spacing="5.0" BorderPane.alignment="CENTER">
+            <children>
+                <GridPane>
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="150.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="10.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+                        <RowConstraints />
+                        <RowConstraints />
+                        <RowConstraints />
+                    </rowConstraints>
+
+                    <Label text="Maze Rows:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+                    <Label text="Maze Columns :" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                    <TextField fx:id="rowsNum" disable="false" text="10" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                    <TextField fx:id="columnsNum" disable="false" text="10" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                    <Button fx:id="generateMazeButton" contentDisplay="CENTER" onAction="#generateMaze" prefHeight="25.0" prefWidth="167.0" text="Generate Maze" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="3" />
+                    <Button fx:id="helpButton" contentDisplay="CENTER" onAction="#helpMeButtonSelected" prefHeight="25.0" prefWidth="167.0" text="Help Me!" visible="false" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="4" />
+                    <Button fx:id="solveMazeButton" cancelButton="true" onAction="#solveMaze" prefHeight="25.0" prefWidth="167.0" text="Solve Maze" visible="false" GridPane.columnSpan="2" GridPane.rowIndex="3" />
+                    <Label fx:id="selectCharacterLabel" alignment="TOP_LEFT" contentDisplay="CENTER" prefWidth="167.0" style="-fx-font-family: 'Berlin Sans FB Demi bold';" text="Choose Character :" textAlignment="CENTER" visible="false" GridPane.columnSpan="2" GridPane.rowIndex="6" />
+                    <ComboBox fx:id="selectCharactersCB" onAction="#changeCharacter" prefWidth="3000.0" value="Profesor" visible="false" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.halignment="CENTER" GridPane.rowIndex="7">
+                        <items>
+                            <FXCollections fx:factory="observableArrayList">
+                                <String fx:value="Denver" />
+                                <String fx:value="Tokyo" />
+                                <String fx:value="Ryo" />
+                                <String fx:value="Nayrobi" />
+                                <String fx:value="Profesor" />
+                            </FXCollections>
+                        </items>
+                    </ComboBox>
+                    <ImageView fx:id="logoImage" fitHeight="250.0" fitWidth="250.0" pickOnBounds="true" preserveRatio="true" GridPane.columnSpan="2" GridPane.rowIndex="8" GridPane.rowSpan="4" />
+                </GridPane>
+            </children>
+        </VBox>
+    </left>
+    <top>
+        <VBox BorderPane.alignment="CENTER">
+            <children>
+                <MenuBar prefHeight="26.0" prefWidth="276.0">
+                    <menus>
+                        <Menu mnemonicParsing="false" text="File">
+                            <items>
+                                <MenuItem fx:id="newFile" mnemonicParsing="false" onAction="#newFileSelected" text="New" />
+                                <MenuItem mnemonicParsing="false" onAction="#saveFileSelected" text="Save" />
+                                <MenuItem mnemonicParsing="false" onAction="#loadFileSelected" text="Load" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Options">
+                            <items>
+                                <MenuItem fx:id="propertiesButton" mnemonicParsing="false" onAction="#propertiesButtonSelected" text="Properties" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Tools">
+                            <items>
+                                <MenuItem fx:id="helpSelectedButton" mnemonicParsing="false" onAction="#helpSelected" text="Help" />
+                                <MenuItem fx:id="aboutSelectedButton" mnemonicParsing="false" onAction="#aboutSelected" text="About" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Exit">
+                            <items>
+                                <MenuItem fx:id="exit" mnemonicParsing="false" onAction="#exitSelected" text="Close the Game" />
+                            </items>
+                        </Menu>
+                    </menus>
+                </MenuBar>
+            </children>
+        </VBox>
+    </top>
+    <center>
+        <AnchorPane fx:id="mazePane" minHeight="450" minWidth="600">
+            <children>
+                <MazeDisplayer fx:id="myMazeDisplayer" width="${mazePane.width}"  height="${mazePane.height}" imageFileNamePlayer="./resources/Images/Professor.jpg" imageFileNameWall="./resources/Images/wall1.jpg" onKeyPressed="#KeyPressed" />
+            </children>
+        </AnchorPane>
+    </center>
+</BorderPane>
